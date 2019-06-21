@@ -1,5 +1,6 @@
 .cat-box img {
   width: 100px;
+  border-radius: 9px;
 }
 
 .summon-cats {
